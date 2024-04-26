@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795568218904",
+    "project_id": "alexmm-mvvm",
+    "storage_bucket": "alexmm-mvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795568218904:android:2255d2e6805f0b1b4e346d",
+        "android_client_info": {
+          "package_name": "net.coding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtrGdwtlCChxCe4WaeUI4gRw9V1i5kpx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
